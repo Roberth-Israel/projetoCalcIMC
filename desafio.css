@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(20, 93, 116);
+    margin: -1%;
+    border: none;
+    border-color: cornflowerblue(207, 207, 211);
+}
+form{
+    width: 50%;
+   
+   
+}
+
+fieldset{
+    background-color: white;
+    border-style: hidden;
+    border-radius: 1svb;
+}
+
+.text{
+    width: 100%;
+    height: 20px;
+}
+
+    
+#enviar {
+background-color: rgb(20, 93, 116);;
+color: white;
+padding: 12px 24px;
+border: none;
+cursor: pointer;
+width: 100%;
+}
+/*#enviar:before {
+content: "\2192";  código unicode para a seta direita 
+margin-right: 5px;  espaçamento entre o ícone e o texto 
+}*/
